@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Stats : MonoBehaviour {
 
-	public float movementRange = 6f;
+	public float movementRange = 20f;
 
 	public float GetMovementRange() {
 		return movementRange;
